@@ -1,6 +1,6 @@
 [<img src="https://cdn.rawgit.com/lutsen/lagan/master/lagan-logo.svg" width="100" alt="Lagan">](https://github.com/lutsen/lagan)
 
-Lagan Properties Text Input Template
+Lagan Properties Fileselect Template
 ====================================
 
 Admin template to edit Lagan fileselect properties.
